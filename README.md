@@ -4,7 +4,7 @@ This chat application is a demontration of how we can create a chat application 
 
 # Technologies
 
-React
-Typescript
-TailwindCSS
-Zustand
++ React
++ Typescript
++ TailwindCSS
++ Zustand
