@@ -1,5 +1,7 @@
 # SSE Chat App
 
+https://github.com/Rishab49/sse_chat_app/assets/25582966/a83de670-07e6-4325-8b7f-f63a01b1ff0a
+
 ## Introduction
 This chat application is a demontration of how we can create a chat application without using websockets. It uses Server Sent Events(SSE) which is a technology enabling client(s) to receive updates in realtime from server. It is a one way communication protocol in which only server can send data to clients. It is fast and very easy to implement and does not requires any additional libraies. 
 
