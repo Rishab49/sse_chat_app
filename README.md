@@ -16,3 +16,6 @@ You can test this app by cloning it and then running following commands in 2 sep
 1. `pnpm install`
 2. `pnpm run dev`
 3. `nodemon server/index.js`
+
+## Additional
+`TOKEN_SECRET` is provided in `.env` file intentionally in case you do not want to create one manually.
